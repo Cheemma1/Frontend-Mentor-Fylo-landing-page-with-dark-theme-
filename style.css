@@ -13,7 +13,7 @@ html{
 body{
     background-color:hsl(218, 28%, 13%) ;
 }
-.header{
+header{
 background-color: hsl(218, 28%, 13%);
 display: grid;
 }
